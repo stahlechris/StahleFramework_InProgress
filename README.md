@@ -1,2 +1,2 @@
 # StahleFramework_InProgress
-Decided to put up a bunch of scripts I commonly use so I can find them when I'm on another machine.
+This repo holds common scripts I find myself using accross projects. The goal is to let me get started on projects faster by already having some major functionality. I'll be able to access these from wherever I have an internet connection too.
